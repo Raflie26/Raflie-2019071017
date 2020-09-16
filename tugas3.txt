@@ -1,0 +1,25 @@
+Contoh3 
+
+Menentukan bilangan yang di input genap/ganjil
+
+ Genap habis jika dibagi
+ Gabjil tidak habis jika dibagi
+
+Algoritmanya?
+ Step 1 Masukan sebuah bilangan
+ Step 2 Bagi bilangan tersebut dengan bilangan atau angka 
+ Step 3 Jika pembagian menghasilkan angka 0 maka bilangan Genap 
+ Step 4 Jika pembagian tidak menghasilkan sisa pembagian 0 maka bilangan ganjil 
+
+Pseudocode :
+Deklarasi
+
+Var Bilangan
+If bil mod 2 = 0  then,
+“Output Genap”
+Else
+“Output Ganjil”
+End if
+
+Catatan : Mod adalah sisa hasil bagi
+ 
